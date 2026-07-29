@@ -1,3 +1,4 @@
+<img width="1908" height="946" alt="Screenshot 2026-07-29 073409" src="https://github.com/user-attachments/assets/3b96b92a-5f0c-4c9b-908e-0d6cf7d2f409" />
 # Task API
 
 A simple in-memory CRUD REST API for managing tasks, built with Express.js and documented with Swagger (OpenAPI 3.0).
